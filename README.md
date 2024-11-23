@@ -1,23 +1,15 @@
 # ETH Zürich - Informatik für HST - HS2024/25 - Hilfsmittel für Prüfungen im Januar 2025
 
-Bitte beachte die folgenden Lizenzbedingungen: [LICENSE](/LICENSE.md). Im Anhang findest du eine Zusammenfassung der Module vom Kurs Informatik für HST-Studierende der ETH Zürich (ETH Zürich, Informatik 2024, Python-Module) als Unterstützung während der Lernphase: [/docs](/docs).
+Herzlich willkommen zu diesem Repository! Dieses enthält ausführbare Code-Beispiele und Skripte, welche in der beiliegenden Zusammenfassung der Module vom Kurs Informatik für HST-Studierende der ETH Zürich gezeigt werden (ETH Zürich, Informatik 2024, Python-Module). Du findest alle wichtigen Dokumente im Anhang: [/docs](/docs/).
 
-## Python Basics
+Hier gelangst du zu einer Aufstellung von ausführbaren Code-Beispielen und Skripten:
 
-Klicke [hier](/python/), um zu einer kurzen Auflistung der wichtigsten Python-Grundlagen zu gelangen.
+1. [Python Basics](/python/)
+2. [Algorothms](/algorithms/)
+3. [SQL](/sql/)
+4. [Misc](/misc/)
 
-## Algorithms
-
-Klicke [hier](/algorithms/), um zu einer kurzen Auflistung einiger grundlegender Algorithmen zu gelangen.
-
-## SQL
-
-Klicke [hier](/sql/), um zu einer kurzen SQL-Zusammenfassung zu gelangen.
-
-## Verschiedenes
-
-Klicke [hier](/misc/), um zu einer Aufstellung verschiedener zusätzlicher Unterlagen zu gelangen.
-
+Bitte beachte die folgenden Lizenzbedingungen: [LICENSE](/LICENSE.md). Fragen und Anmerkungen gerne an [info@nicolas-huber.ch](mailto:info@nicolas-huber.ch).
 
 Viel Erfolg und happy Coding!
 
