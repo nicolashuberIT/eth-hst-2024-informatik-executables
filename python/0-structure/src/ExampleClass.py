@@ -2,7 +2,7 @@
 global_var: int = 42
 
 # Definition einer Funktion
-def example_function(param1: int, param2: int) -> int:
+def global_function(param1: int, param2: int) -> int:
     return param1 + param2
 
 # Definition einer Klasse
