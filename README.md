@@ -1,5 +1,8 @@
 # ETH Zürich - Informatik für HST - HS2024/25 - Hilfsmittel für Prüfungen im Januar 2025
 
+[![License](https://img.shields.io/badge/License-CCBYNCND-blue)](/LICENSE.md)
+![Testing](https://github.com/nicolashuberIT/eth-hst-2024-informatik-executables/actions/workflows/testing.yaml/badge.svg)
+
 Herzlich willkommen zu diesem Repository! Dieses enthält ausführbare Code-Beispiele und Skripte, welche in der zugrundeliegenden Zusammenfassung der Module vom Kurs Informatik für HST-Studierende der ETH Zürich gezeigt werden (ETH Zürich, Informatik 2024, Python-Module).
 
 Hier gelangst du zu einer Aufstellung von ausführbaren Code-Beispielen und Skripten:
