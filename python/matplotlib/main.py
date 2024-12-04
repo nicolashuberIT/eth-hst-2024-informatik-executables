@@ -1,3 +1,7 @@
+#########################
+# Wie in C5 gezeigt
+#########################
+
 import matplotlib.pyplot as plt
 
 # Basisdaten

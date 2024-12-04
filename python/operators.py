@@ -1,3 +1,7 @@
+#########################
+# Wie in B2 gezeigt
+#########################
+
 is_boolean: bool = True
 num_integer: int = 2
 num_float: float = 3.1

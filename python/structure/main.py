@@ -1,3 +1,7 @@
+#########################
+# Wie in C1 gezeigt
+#########################
+
 from src.ExampleClass import global_var                               # global_var aus ExampleClass.py importieren
 from src.ExampleClass import global_function                          # example_function aus ExampleClass.py importieren
 from src.ExampleClass import ExampleClass as EC                       # ExampleClass aus ExampleClass.py importieren mit Alias

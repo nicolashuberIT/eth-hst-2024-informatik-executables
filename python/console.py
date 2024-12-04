@@ -1,3 +1,7 @@
+#########################
+# Wie in B3 gezeigt
+#########################
+
 txt_string: str = "test"
 num_float: float = 3.1
 

@@ -1,3 +1,7 @@
+#########################
+# Wie in B5 gezeigt
+#########################
+
 # ASCII-Zeichen
 
 print(ord("X"))                 # >>> 88 (int, Ordnungszahl von "X" in ASCII)

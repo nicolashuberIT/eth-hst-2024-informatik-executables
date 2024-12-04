@@ -1,3 +1,7 @@
+#########################
+# Wie in B1 gezeigt
+#########################
+
 # Grundlegende Datentypen
 
 is_boolean: bool = True         # Wahrheitswert
