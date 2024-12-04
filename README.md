@@ -8,7 +8,7 @@ Herzlich willkommen zu diesem Repository! Dieses enthält ausführbare Code-Beis
 Hier gelangst du zu einer Aufstellung von ausführbaren Code-Beispielen und Skripten:
 
 1. [Python Basics](/python/)
-2. [Algorothms](/algorithms/)
+2. [Algorithms](/algorithms/)
 3. [SQL](/sql/)
 4. [Misc](/misc/)
 
