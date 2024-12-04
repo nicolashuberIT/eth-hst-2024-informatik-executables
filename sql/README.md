@@ -5,6 +5,7 @@
 Hier findest du eine Aufstellung von Unterlagen zu SQL:
 
 - `usage.sql` > [Hier klicken](/sql/usage.sql)
+- `sqlite.py` > [Hier klicken](/sql/sqlite.py)
 
 ---
 
