@@ -1,4 +1,6 @@
-# Linear Search & Binary Search in Python
+#########################
+# Wie in C8 gezeigt
+#########################
 
 def linear_search(num_list, target):
   n = len(num_list)
@@ -8,6 +10,10 @@ def linear_search(num_list, target):
       return i                                        # Ziel gefunden, Index zurückgeben
 
   return -1                                           # Ziel nicht gefunden
+
+#########################
+# Wie in C9 gezeigt
+#########################
 
 def binary_search(num_list, target):
     left, right = 0, len(num_list) - 1

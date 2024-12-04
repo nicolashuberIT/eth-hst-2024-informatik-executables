@@ -1,4 +1,6 @@
-# Bubble Sort in Python
+#########################
+# Wie in C7
+#########################
 
 def bubble_sort_asc(num_list):
     n = len(num_list)
