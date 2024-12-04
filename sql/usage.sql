@@ -1,3 +1,7 @@
+-- ######################
+-- Wie in C4 gezeigt
+-- ######################
+
 -- 1. Erstelle eine neue Tabelle
 CREATE TABLE employees (
     id INT PRIMARY KEY,
