@@ -14,7 +14,7 @@ Hier gelangst du zu einer Aufstellung von ausführbaren Code-Beispielen und Skri
 
 Versionen und Releases:
 
-1. 202412 -> to be released
+1. `202412` : to be released
 
 Bitte beachte die folgenden Lizenzbedingungen: [LICENSE](/LICENSE.md). Keine Haftung für fehlerhafte Inhalte. Fragen und Anmerkungen gerne an [info@nicolas-huber.ch](mailto:info@nicolas-huber.ch).
 
