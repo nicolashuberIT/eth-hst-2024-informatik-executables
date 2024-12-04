@@ -12,7 +12,11 @@ Hier gelangst du zu einer Aufstellung von ausführbaren Code-Beispielen und Skri
 3. [SQL](/sql#sql-basics)
 4. [Verschiedenes](/misc#verschiedenes)
 
-Bitte beachte die folgenden Lizenzbedingungen: [LICENSE](/LICENSE.md). Fragen und Anmerkungen gerne an [info@nicolas-huber.ch](mailto:info@nicolas-huber.ch).
+Versionen und Releases:
+
+1. 202412 -> to be released
+
+Bitte beachte die folgenden Lizenzbedingungen: [LICENSE](/LICENSE.md). Keine Haftung für fehlerhafte Inhalte. Fragen und Anmerkungen gerne an [info@nicolas-huber.ch](mailto:info@nicolas-huber.ch).
 
 Viel Erfolg und happy Coding!
 
