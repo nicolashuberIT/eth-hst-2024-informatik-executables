@@ -7,10 +7,10 @@ Herzlich willkommen zu diesem Repository! Dieses enthält ausführbare Code-Beis
 
 Hier gelangst du zu einer Aufstellung von ausführbaren Code-Beispielen und Skripten:
 
-1. [Python Basics](/python/)
-2. [Algorithms](/algorithms/)
-3. [SQL](/sql/)
-4. [Misc](/misc/)
+1. [Python Basics](/python#python-basics)
+2. [Algorithms](/algorithms#algorithmen)
+3. [SQL](/sql#sql-basics)
+4. [Verschiedenes](/misc#verschiedenes)
 
 Bitte beachte die folgenden Lizenzbedingungen: [LICENSE](/LICENSE.md). Fragen und Anmerkungen gerne an [info@nicolas-huber.ch](mailto:info@nicolas-huber.ch).
 
