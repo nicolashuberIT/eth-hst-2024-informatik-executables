@@ -10,7 +10,7 @@ Hier findest du eine Aufstellung von Unterlagen zu Python:
 - `control.py` > [Hier klicken](/python/control.py)
 - `functions.py` > [Hier klicken](/python/functions.py)
 - `modules.py` > [Hier klicken](/python/modules.py)
-- `numpy.py` > [Hier klicken](/python/numpy.py)
+- `numpy.py` > [Hier klicken](/python/numpy-examples.py)
 - `operators.py` > [Hier klicken](/python/operators.py)
 - `tricks.py` > [Hier klicken](/python/tricks.py)
 - `types.py` > [Hier klicken](/python/types.py)
